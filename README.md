@@ -52,4 +52,4 @@
 
 [twitter]: https://twitter.com/msaini0r
 [instagram]: https://www.instagram.com/its.mohit19/
-[linkedin]: https://www.linkedin.com/in/mohit-saini-00a2b9166/
+[linkedin]: https://www.linkedin.com/in/msaini0r/
