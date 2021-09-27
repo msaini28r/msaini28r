@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohit 👋👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/msaini0r?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmsaini0r&screen_name=mohit98428787)
+[![Twitter Follow](https://img.shields.io/twitter/follow/msaini0r?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmsaini0r&screen_name=msaini0r)
 
 ## I'm a Student, Developer, and A Contributor!!
 
