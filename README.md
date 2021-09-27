@@ -46,7 +46,7 @@
 
 -------
 
-<img align="left" alt="msaini0r's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=msaini0r&show_icons=true&hide_border=true" />
+<img align="left" alt="msaini0r's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=algolia)" />
 
 
 
