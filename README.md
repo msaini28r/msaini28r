@@ -1,8 +1,8 @@
 ### Hi there, I'm Mohit 👋👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mohit98428787?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmohit98428787&screen_name=mohit98428787)
+[![Twitter Follow](https://img.shields.io/twitter/follow/msaini0r?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmsaini0r&screen_name=mohit98428787)
 
-## I'm a Student, Developer, and Open Source Contributor!!
+## I'm a Student, Developer, and A Contributor!!
 
 - 🔭 I just started working in open source.
 - 🏫 I am currently in my second year.
@@ -50,6 +50,6 @@
 
 
 
-[twitter]: https://twitter.com/mohit98428787
+[twitter]: https://twitter.com/msaini0r
 [instagram]: https://www.instagram.com/its.mohit19/
 [linkedin]: https://www.linkedin.com/in/mohit-saini-00a2b9166/
