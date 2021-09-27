@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mohit98428787?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmohit98428787&screen_name=mohit98428787)
 
-## I'm a Student, Developer, and Open Source Contributor!!
+## I'm a Student, Developer, and A Contributor!!
 
 - 🔭 I just started working in open source.
 - 🏫 I am currently in my second year.
