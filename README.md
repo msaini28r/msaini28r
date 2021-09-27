@@ -44,6 +44,17 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+-------
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="msaini0r's GitHub Stats" src="https://github-readme-stats.msaini0r.vercel.app/api?username=msaini0r&show_icons=true&hide_border=true" />
+
+</details>
+
 
 [twitter]: https://twitter.com/mohit98428787
 [instagram]: https://www.instagram.com/its.mohit19/
