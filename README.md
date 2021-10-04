@@ -14,8 +14,12 @@
 ### Connect with me:
 
 
-[<img align="left" alt="msaini0r | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="msaini0r | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://twitter.com/msaini0r">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/in/msaini0r/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
 
 <br />
 
