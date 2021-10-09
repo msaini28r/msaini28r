@@ -20,6 +20,7 @@
   <a href="https://www.linkedin.com/in/msaini0r/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
+   <a href="mailto:msaini0r@gmail.com?"><img width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/></a>
 
 <br />
 
