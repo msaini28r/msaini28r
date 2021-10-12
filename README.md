@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to play Volleyball.
 
 <p align="center">
-  <img src="https://magiccopy.xyz/assets/images/hadder.gif" />
+ <img align="center" src="https://i.gifer.com/52mv.gif"/>
 </p>
 <br>
 
