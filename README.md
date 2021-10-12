@@ -8,6 +8,11 @@
 - 🥅 2021 Goals: Contribute more to Open Source Projects.
 - ⚡ Fun fact: I love to play Volleyball.
 
+<p align="center">
+  <img src="https://magiccopy.xyz/assets/images/hadder.gif" />
+</p>
+<br>
+
 
 <h3 align="center">Connect with me</h3>
 
