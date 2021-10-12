@@ -3,7 +3,7 @@
 - 😊I'm a Student, Developer, and A Contributor.
 - 🔭 I just started working in open source.
 - 🏫 I am currently in my second year.
-- 🌱 I’m currently learning everything 🤣.
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source Projects.
 - ⚡ Fun fact: I love to play Volleyball.
@@ -92,10 +92,10 @@
 
 <br>
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=msaini0r&show_icons=true&theme=gotham&count_private=true" alt="JayB's github stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaini0r&theme=gotham&layout=compact" alt="JayB's github top languages" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=msaini0r&show_icons=true&theme=bear&count_private=true" alt="JayB's github stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaini0r&theme=bear&layout=compact" alt="JayB's github top languages" />
 </p>
 <p align="center">
-    <img  height="150em" alt="Divyam's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=msaini0r&theme=gotham"/>
+    <img  height="150em" alt="Mohit's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=msaini0r&theme=bear"/>
   <br>
   <br>
