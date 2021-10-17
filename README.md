@@ -33,6 +33,9 @@
 	<a href="https://reactjs.org/">
 	   <img src="https://img.shields.io/badge/React-a5f2f1?style=for-the-badge&logo=react&logoColor=black" alt="react" />&nbsp;&nbsp;
 	</a>
+	<a href="https://flutter.dev/">
+	   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />&nbsp;&nbsp;
+	</a>
 	<a href="https://www.python.org/">
 	   <img src="https://img.shields.io/badge/Python-008094?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;
 	</a>
