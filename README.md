@@ -31,13 +31,13 @@
   
 <p align="center">
 	<a href="https://reactjs.org/">
-	   <img src="https://img.shields.io/badge/React-a5f2f1?style=for-the-badge&logo=react&logoColor=black" alt="react" />&nbsp;&nbsp;
+	   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />&nbsp;&nbsp;
 	</a>
 	<a href="https://flutter.dev/">
 	   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />&nbsp;&nbsp;
 	</a>
 	<a href="https://www.python.org/">
-	   <img src="https://img.shields.io/badge/Python-008094?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;
+	   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;
 	</a>
     <a href="https://kotlinlang.org/">
 	   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />&nbsp;&nbsp;
