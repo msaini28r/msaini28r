@@ -36,6 +36,9 @@
 	<a href="https://flutter.dev/">
 	   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />&nbsp;&nbsp;
 	</a>
+	<a href="https://dart.dev/">
+	   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>&nbsp;&nbsp;
+	</a>
 	<a href="https://www.python.org/">
 	   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;
 	</a>
@@ -62,9 +65,6 @@
 	</a>
     <a href="https://www.docker.com/">
 	 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;
-	</a>
-	<a href="https://github.com/features/actions">
-	   <img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="githubactions"/>&nbsp;&nbsp;
 	</a>
 	<a href="https://git-scm.com/">
 	   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
