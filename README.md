@@ -30,9 +30,6 @@
 <h3 align="center">Some Technologies, Languages, Frameworks and others<h3/>
   
 <p align="center">
-	<a href="https://reactjs.org/">
-	   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />&nbsp;&nbsp;
-	</a>
 	<a href="https://flutter.dev/">
 	   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />&nbsp;&nbsp;
 	</a>
@@ -45,12 +42,6 @@
     <a href="https://kotlinlang.org/">
 	   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />&nbsp;&nbsp;
 	</a>
-	<a href="https://en.wikipedia.org/wiki/C%2B%2B">
-	   <img src="https://img.shields.io/badge/C++-a31d8f?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" />&nbsp;&nbsp;
-	</a>
-    <a href="https://golang.org/">
-	   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" />&nbsp;&nbsp;
-	</a>
 	<a href="https://www.mongodb.com/">
 	   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />&nbsp;&nbsp;
 	</a>
@@ -59,9 +50,6 @@
 	</a>
 	<a href="https://firebase.google.com/">
 	   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />&nbsp;&nbsp;
-	</a>
-	<a href="https://kubernetes.io/">
-	<img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>&nbsp;&nbsp;
 	</a>
     <a href="https://www.docker.com/">
 	 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;
@@ -74,9 +62,6 @@
     </a>
     <a href="https://www.android.com/intl/en_in/">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" />&nbsp;&nbsp;
-    </a>
-    <a href="https://www.microsoft.com/en-in/windows/">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10"  />&nbsp;&nbsp;
     </a>
     <a href="https://www.jetbrains.com/idea/">
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>&nbsp;&nbsp;
