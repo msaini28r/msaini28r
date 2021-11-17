@@ -49,7 +49,7 @@
 	</a>
 </p>
 
-<h3 align="center">Some Technologies, Languages, Frameworks and others<h3/>
+<h3 align="center">💻Some Technologies, Languages, Frameworks and others<h3/>🧑🏻‍💻
   
 <p align="center">
 	<a href="https://flutter.dev/">
