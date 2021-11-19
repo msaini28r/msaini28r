@@ -47,6 +47,9 @@
 	<a href="https://www.facebook.com/msaini0r/">
 		<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>
+	<a href="https://msaini0r.hashnode.dev/">
+		<img src="https://img.shields.io/badge/Hashnode-56347C?style=for-the-badge&logo=hashnode&logoColor=white" />
+	</a>
 </p>
 
 <h3 align="center">💻Some Technologies, Languages, Frameworks and others🧑🏻‍💻<h3/>
@@ -93,14 +96,6 @@
 <br />
 <br />
 
--------
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
--------
 
 <br>
 <p align="center">
