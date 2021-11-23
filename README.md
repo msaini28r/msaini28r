@@ -64,6 +64,9 @@
 	<a href="https://www.python.org/">
 	   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;
 	</a>
+	<a href="https://www.javascript.com/">
+	   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />&nbsp;&nbsp;
+	</a>
 	<a href="https://www.java.com/en/">
 	   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
 	</a>
