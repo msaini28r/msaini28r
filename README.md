@@ -12,7 +12,6 @@
  <img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
 <br>
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
 <!-- <h3 align="center">Connect with me</h3>
 
