@@ -66,23 +66,26 @@
 	<a href="https://html.com/">
 	   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" />&nbsp;&nbsp;
 	</a>
+	<a href="https://www.w3.org/TR/css-2020/">
+	   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />&nbsp;&nbsp;
+	</a>
+	<a href="https://getbootstrap.com/">
+	   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />&nbsp;&nbsp;
+	</a>
+	<a href="https://www.javascript.com/">
+	   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />&nbsp;&nbsp;
+	</a>
 	<a href="https://nodejs.org/en/">
 	   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" />&nbsp;&nbsp;
 	</a>
 	<a href="https://reactjs.org/">
 	   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />&nbsp;&nbsp;
 	</a>
-	<a href="https://www.javascript.com/">
-	   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />&nbsp;&nbsp;
-	</a>
 	<a href="https://www.java.com/en/">
 	   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
 	</a>
-    <a href="https://kotlinlang.org/">
-	   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />&nbsp;&nbsp;
-	</a>
-	<a href="https://www.mysql.com/">
-	   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
+	<a href="https://www.mongodb.com/">
+	   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />&nbsp;&nbsp;
 	</a>
 	<a href="https://git-scm.com/">
 	   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
