@@ -60,9 +60,6 @@
 	<a href="https://dart.dev/">
 	   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>&nbsp;&nbsp;
 	</a>
-	<a href="https://www.python.org/">
-	   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;
-	</a>
 	<a href="https://html.com/">
 	   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" />&nbsp;&nbsp;
 	</a>
