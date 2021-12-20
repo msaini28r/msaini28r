@@ -54,12 +54,6 @@
 <h3 align="center">💻Some Technologies, Languages, Frameworks and others🧑🏻‍💻<h3/>
   
 <p align="center">
-	<a href="https://flutter.dev/">
-	   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />&nbsp;&nbsp;
-	</a>
-	<a href="https://dart.dev/">
-	   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>&nbsp;&nbsp;
-	</a>
 	<a href="https://html.com/">
 	   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" />&nbsp;&nbsp;
 	</a>
@@ -83,6 +77,12 @@
 	</a>
 	<a href="https://www.mongodb.com/">
 	   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />&nbsp;&nbsp;
+	</a>
+	<a href="https://flutter.dev/">
+	   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />&nbsp;&nbsp;
+	</a>
+	<a href="https://dart.dev/">
+	   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>&nbsp;&nbsp;
 	</a>
 	<a href="https://git-scm.com/">
 	   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
