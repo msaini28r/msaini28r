@@ -43,9 +43,6 @@
 	<a href="https://www.instagram.com/msaini0r/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
-	<a href="https://www.facebook.com/msaini0r/">
-		<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-	</a>
 	<a href="https://msaini0r.hashnode.dev/">
 		<img src="https://img.shields.io/badge/Hashnode-56347C?style=for-the-badge&logo=hashnode&logoColor=white" />
 	</a>
