@@ -66,20 +66,14 @@
 	<a href="https://nodejs.org/en/">
 	   <img src="https://img.shields.io/badge/Node.js-239120?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" />&nbsp;&nbsp;
 	</a>
-	<a href="https://reactjs.org/">
-	   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />&nbsp;&nbsp;
+	<a href="https://angular.io/">
+	   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />&nbsp;&nbsp;
 	</a>
 	<a href="https://www.java.com/en/">
 	   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
 	</a>
 	<a href="https://www.mongodb.com/">
 	   <img src="https://img.shields.io/badge/MongoDB-239120?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />&nbsp;&nbsp;
-	</a>
-	<a href="https://flutter.dev/">
-	   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />&nbsp;&nbsp;
-	</a>
-	<a href="https://dart.dev/">
-	   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>&nbsp;&nbsp;
 	</a>
 	<a href="https://git-scm.com/">
 	   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
