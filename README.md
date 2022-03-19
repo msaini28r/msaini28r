@@ -40,8 +40,8 @@
 	<a href="mailto:msaini0r@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-	<a href="https://www.instagram.com/msaini0r/">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+	<a href="https://open.spotify.com/show/3mz687baso6OlmA03IdQtv?si=7160db39692e46e7">
+		<img src="https://img.shields.io/badge/Spotify-239120?&style=for-the-badge&logo=spotify&logoColor=white" />
 	</a>
 	<a href="https://msaini0r.hashnode.dev/">
 		<img src="https://img.shields.io/badge/Hashnode-56347C?style=for-the-badge&logo=hashnode&logoColor=white" />
