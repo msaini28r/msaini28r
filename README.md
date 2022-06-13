@@ -46,6 +46,9 @@
 	<a href="https://msaini0r.hashnode.dev/">
 		<img src="https://img.shields.io/badge/Hashnode-56347C?style=for-the-badge&logo=hashnode&logoColor=white" />
 	</a>
+	<a href="https://leetcode.com/msaini1r/">
+		<img src="https://img.shields.io/badge/-LeetCode-100000?style=for-the-badge&logo=LeetCode&logoColor=yellow" />
+	</a>
 </p>
 
 <h3 align="center">💻Some Technologies, Languages, Frameworks and others🧑🏻‍💻<h3/>
