@@ -50,7 +50,6 @@
 	<a href="https://leetcode.com/msaini1r/">
 		<img src="https://img.shields.io/badge/-LeetCode-100000?style=for-the-badge&logo=LeetCode&logoColor=yellow" />
 	</a> -->
-	*/
 </p>
 
 <h3 align="center">💻Some Technologies, Languages, Frameworks and others🧑🏻‍💻<h3/>
