@@ -2,8 +2,8 @@
 
 - 😊I'm a Student, Developer, and A Contributor.
 - 🔭 I just started working in open source.
-- 🏫 I am currently in my second year.
-- 🌱 I’m currently learning everything.
+- 🏫 I am currently in my 3rd year.
+- 🌱 I’m currently learning backend.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals: Contribute more to Open Source Projects.
 - ⚡ Fun fact: I love to play Volleyball.
