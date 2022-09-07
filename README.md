@@ -37,9 +37,6 @@
   	<a href="https://twitter.com/msaini0r">
 		<img src="https://img.shields.io/badge/Twitter-00cbe6?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-	<a href="mailto:msaini0r@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
 	<a href="https://open.spotify.com/playlist/0hm6fhnsFwXCPbr74Ie2DO?si=8300a6d916f94e02">
 		<img src="https://img.shields.io/badge/Spotify-239120?&style=for-the-badge&logo=spotify&logoColor=white" />
 	</a>
