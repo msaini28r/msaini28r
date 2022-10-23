@@ -66,6 +66,9 @@
 	<a href="https://nodejs.org/en/">
 	   <img src="https://img.shields.io/badge/Node.js-239120?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" />&nbsp;&nbsp;
 	</a>
+	<a href="https://reactjs.org/">
+	   <img src="https://img.shields.io/badge/React-092E20?style=for-the-badge&logo=react&logoColor=61DAFB" alt="node.js" />&nbsp;&nbsp;
+	</a>
 	<a href="https://angular.io/">
 	   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />&nbsp;&nbsp;
 	</a>
