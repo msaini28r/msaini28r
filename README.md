@@ -5,7 +5,7 @@
 - 🏫 I am currently in my 3rd year.
 - 🌱 I’m currently learning backend.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Contribute more to Open Source Projects.
+- 🥅 2023 Goals: Contribute more to Open Source Projects.
 - ⚡ Fun fact: I love to play Volleyball.
 
 <p align="center">
