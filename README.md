@@ -25,7 +25,7 @@
   	<a href="https://twitter.com/msaini0r">
 		<img src="https://img.shields.io/badge/Twitter-00cbe6?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a> -->
-<!-- 	
+<!--
 </p> -->
 
 <h3 align="center">⚡Connect with me⚡</h3>
@@ -85,18 +85,16 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />&nbsp;&nbsp;
 	</a>
 
-
 <br />
 <br />
-
 
 <br>
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-coral-nu.vercel.app/api?username=msaini0r&show_icons=true&theme=bear&count_private=true" alt="JayB's github stats" />
-  <img height="150em" src="https://github-readme-stats-coral-nu.vercel.app/api/top-langs/?username=msaini0r&theme=bear&layout=compact" alt="JayB's github top languages" />
+  <img height="150em" src="https://github-readme-stats-coral-nu.vercel.app/api?username=msaini0r&show_icons=true&theme=bear&count_private=true&include_all_commits=true" alt="JayB's github stats" />
+  <img height="150em" src="https://github-readme-stats-coral-nu.vercel.app/api/top-langs/?username=msaini0r&theme=bear&layout=compact&include_all_commits=true" alt="JayB's github top languages" />
 </p>
 
 <p align="center">
-    <img  height="150em" alt="Mohit's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=msaini0r&theme=bear"/>
+    <img  height="150em" alt="Mohit's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=msaini0r&theme=bear&include_all_commits=true"/>
   <br>
   <br>
