@@ -92,7 +92,6 @@
 
 <br>
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaini0r&count_private=true)
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaini0r&theme=bear&layout=compact" alt="JayB's github top languages" />
 </p>
 <p align="center">
