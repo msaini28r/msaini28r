@@ -43,8 +43,8 @@
 	<a href="https://www.youtube.com/channel/UChLhIjQppo-3d9ebeZIusZg">
 		<img src="https://img.shields.io/badge/YouTube-E50914?style=for-the-badge&logo=youtube&logoColor=white" />
 	</a>
-	<a href="https://msaini0r.hashnode.dev/">
-		<img src="https://img.shields.io/badge/Hashnode-56347C?style=for-the-badge&logo=hashnode&logoColor=white" />
+	<a href="https://leetcode.com/msaini1r/">
+		<img src="https://img.shields.io/badge/-LeetCode-E34F26?style=for-the-badge&logo=LeetCode&logoColor=black" />
 	</a>
 </p>
 
