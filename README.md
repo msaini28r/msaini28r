@@ -1,6 +1,6 @@
 # <h1 align="center">Hi there, I'm Mohit Saini 👋</h1>
 
-- 😊I'm a Student, Developer, and A Contributor.
+- 😊 I'm a Student, Developer, and A Contributor.
 - 🔭 I just started working in open source.
 - 🏫 I am currently in my 3rd year.
 - 🌱 I’m currently learning backend.
