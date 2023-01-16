@@ -90,8 +90,11 @@
 
 <br>
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=msaini0r&show_icons=true&theme=bear&count_private=true&include_all_commits=true" alt="JayB's github stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaini0r&theme=bear&layout=compact&include_all_commits=true" alt="JayB's github top languages" />
+<a href="https://github.com/UtkarshMishra12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=msaini0r&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=msaini0r&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=msaini0r&theme=tokyonight"/>	
+</a>
 </p>
 
 <p align="center">
