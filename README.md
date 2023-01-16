@@ -95,6 +95,6 @@
 </p>
 
 <p align="center">
-    <img  height="150em" alt="Mohit's Streak" src="https://github-readme-stats-coral-nu.vercel.app/?user=msaini0r&theme=bear&include_all_commits=true"/>
+    <img  height="150em" alt="Mohit's Streak" src="https://github-readme-stats.vercel.app/?user=msaini0r&theme=bear&include_all_commits=true"/>
   <br>
   <br>
