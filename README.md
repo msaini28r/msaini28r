@@ -11,22 +11,7 @@
 <p align="center">
  <img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
-<br>
 
-<!-- <h3 align="center">Connect with me</h3>
-
-<p align="center">
-   <a href="https://www.linkedin.com/in/msaini0r/">
-		<img src="https://img.shields.io/badge/Linkedin-2088FF?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="mailto:msaini0r@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-  	<a href="https://twitter.com/msaini0r">
-		<img src="https://img.shields.io/badge/Twitter-00cbe6?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a> -->
-<!--
-</p> -->
 
 <h3 align="center">⚡Connect with me⚡</h3>
 
@@ -83,6 +68,15 @@
 	</a>
     <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />&nbsp;&nbsp;
+	</a>
+	<a href="https://ubuntu.com/">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="github" />&nbsp;&nbsp;
+	</a>
+	<a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="github" />&nbsp;&nbsp;
+	</a>
+	<a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="github" />&nbsp;&nbsp;
 	</a>
 
 <br />
