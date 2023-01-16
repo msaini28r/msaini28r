@@ -90,11 +90,11 @@
 
 <br>
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-coral-nu.vercel.app/api?username=msaini0r&show_icons=true&theme=bear&count_private=true&include_all_commits=true" alt="JayB's github stats" />
-  <img height="150em" src="https://github-readme-stats-coral-nu.vercel.app/api/top-langs/?username=msaini0r&theme=bear&layout=compact&include_all_commits=true" alt="JayB's github top languages" />
+  <img height="150em" src="https://github-readme-stats-five-tawny-84.vercel.app/api?username=msaini0r&show_icons=true&theme=bear&count_private=true&include_all_commits=true" alt="JayB's github stats" />
+  <img height="150em" src="https://github-readme-stats-five-tawny-84.vercel.app/api/top-langs/?username=msaini0r&theme=bear&layout=compact&include_all_commits=true" alt="JayB's github top languages" />
 </p>
 
 <p align="center">
-    <img  height="150em" alt="Mohit's Streak" src="https://github-readme-stats.vercel.app/?user=msaini0r&theme=bear&include_all_commits=true"/>
+    <img  height="150em" alt="Mohit's Streak" src="https://github-readme-stats-five-tawny-84.vercel.app/?user=msaini0r&theme=bear&include_all_commits=true"/>
   <br>
   <br>
