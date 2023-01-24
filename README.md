@@ -85,7 +85,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/msaini0r">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=msaini0r&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=msaini0r&show_icons=true&theme=algolia&include_all_commits=true&count_private=true#gh-dark-mode-only)"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=msaini0r&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=msaini0r&theme=tokyonight"/>	
 </a>
