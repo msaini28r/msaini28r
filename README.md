@@ -42,11 +42,11 @@
 	<a href="https://www.w3.org/TR/css-2020/">
 	   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />&nbsp;&nbsp;
 	</a>
-	<a href="https://getbootstrap.com/">
-	   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />&nbsp;&nbsp;
-	</a>
 	<a href="https://www.javascript.com/">
 	   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />&nbsp;&nbsp;
+	</a>
+	<a href="https://getbootstrap.com/">
+	   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />&nbsp;&nbsp;
 	</a>
 	<a href="https://nodejs.org/en/">
 	   <img src="https://img.shields.io/badge/Node.js-239120?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" />&nbsp;&nbsp;
