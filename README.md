@@ -25,9 +25,9 @@
 	<a href="https://open.spotify.com/playlist/0hm6fhnsFwXCPbr74Ie2DO?si=8300a6d916f94e02">
 		<img src="https://img.shields.io/badge/Spotify-239120?&style=for-the-badge&logo=spotify&logoColor=white" />
 	</a>
-	<a href="https://www.youtube.com/channel/UChLhIjQppo-3d9ebeZIusZg">
+<!-- 	<a href="https://www.youtube.com/channel/UChLhIjQppo-3d9ebeZIusZg">
 		<img src="https://img.shields.io/badge/YouTube-E50914?style=for-the-badge&logo=youtube&logoColor=white" />
-	</a>
+	</a> -->
 	<a href="https://leetcode.com/msaini1r/">
 		<img src="https://img.shields.io/badge/-LeetCode-E34F26?style=for-the-badge&logo=LeetCode&logoColor=black" />
 	</a>
