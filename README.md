@@ -62,6 +62,9 @@
 	<a href="https://www.python.org/">
 	   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 	</a>
+	<a href="https://go.dev/">
+    	<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;
+	</a>
 	<a href="https://www.mongodb.com/">
 	   <img src="https://img.shields.io/badge/MongoDB-239120?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />&nbsp;&nbsp;
 	</a>
@@ -70,9 +73,6 @@
 	</a>
     <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />&nbsp;&nbsp;
-	</a>
-	<a href="https://ubuntu.com/">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="github" />&nbsp;&nbsp;
 	</a>
 	<a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="github" />&nbsp;&nbsp;
