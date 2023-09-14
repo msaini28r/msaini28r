@@ -18,9 +18,9 @@
    <a href="https://www.linkedin.com/in/msaini0r/">
 		<img src="https://img.shields.io/badge/Linkedin-2088FF?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-  	<a href="https://twitter.com/msaini0r">
+<!--   	<a href="https://twitter.com/msaini0r">
 		<img src="https://img.shields.io/badge/Twitter-0d597f?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
+	</a> -->
 <!-- 	<a href="https://open.spotify.com/playlist/0hm6fhnsFwXCPbr74Ie2DO?si=8300a6d916f94e02">
 		<img src="https://img.shields.io/badge/Spotify-239120?&style=for-the-badge&logo=spotify&logoColor=white" />
 	</a> -->
