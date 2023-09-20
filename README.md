@@ -15,7 +15,7 @@
 <h3 align="center">⚡Connect with me⚡</h3>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/msaini0r/">
+   <a href="https://www.linkedin.com/in/msaini28r/">
 		<img src="https://img.shields.io/badge/Linkedin-2088FF?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 <!--   	<a href="https://twitter.com/msaini0r">
@@ -24,7 +24,7 @@
 <!-- 	<a href="https://open.spotify.com/playlist/0hm6fhnsFwXCPbr74Ie2DO?si=8300a6d916f94e02">
 		<img src="https://img.shields.io/badge/Spotify-239120?&style=for-the-badge&logo=spotify&logoColor=white" />
 	</a> -->
-	<a href="https://msaini0r.hashnode.dev/">
+	<a href="https://msaini28r.hashnode.dev/">
 		<img src="https://img.shields.io/badge/Hashnode-239120?style=for-the-badge&logo=hashnode&logoColor=white" />
 	</a>
 	<a href="https://leetcode.com/msaini1r/">
@@ -87,9 +87,9 @@
 <br>
 <p align="center">
 <a href="https://github.com/msaini0r">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=msaini0r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=msaini0r&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=msaini0r&theme=tokyonight"/>	
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=msaini28r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=msaini28r&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=msaini28r&theme=tokyonight"/>	
 </a>
 </p>
 
