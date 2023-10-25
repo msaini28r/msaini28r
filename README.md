@@ -27,7 +27,7 @@
 	<a href="https://msaini28r.hashnode.dev/">
 		<img src="https://img.shields.io/badge/Hashnode-239120?style=for-the-badge&logo=hashnode&logoColor=white" />
 	</a>
-	<a href="https://leetcode.com/msaini1r/">
+	<a href="https://leetcode.com/msaini28r/">
 		<img src="https://img.shields.io/badge/-LeetCode-E34F26?style=for-the-badge&logo=LeetCode&logoColor=black" />
 	</a>
 </p>
@@ -86,7 +86,7 @@
 
 <br>
 <p align="center">
-<a href="https://github.com/msaini0r">
+<a href="https://github.com/msaini28r">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=msaini28r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=msaini28r&layout=compact&langs_count=8&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=msaini28r&theme=tokyonight"/>	
