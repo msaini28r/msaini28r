@@ -87,9 +87,9 @@
 <br>
 <p align="center">
 <a href="https://github.com/msaini28r">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msaini28r&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="msaini28r" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msaini28r&rank_icon=github&locale=en&theme=tokyonight" alt="msaini28r" /></p>
-<p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=msaini28r&theme=tokyonight"/></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msaini28r&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="msaini28r" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=msaini28r&rank_icon=github&locale=en&theme=tokyonight" alt="msaini28r" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=msaini28r&theme=tokyonight"/>
 </a>
 </p>
 
