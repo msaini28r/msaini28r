@@ -11,7 +11,6 @@
  <img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
 
-
 <h3 align="center">⚡Connect with me⚡</h3>
 
 <p align="center">
@@ -87,9 +86,8 @@
 <br>
 <p align="center">
 <a href="https://github.com/msaini28r">
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msaini28r&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="msaini28r" /> -->
+<p align="center"><img width="320" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=msaini28r&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="msaini28r" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=msaini28r&rank_icon=github&locale=en&theme=tokyonight" alt="msaini28r" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=msaini28r&theme=tokyonight"/>
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=msaini28r&theme=tokyonight"/></p>
 </a>
 </p>
-
