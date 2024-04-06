@@ -3,7 +3,7 @@
 - 😊 I'm a Developer, and A Contributor.
 - 🌱 I’m currently learning backend.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2023 Goals: Contribute more to Open Source Projects.
+- 🥅 2024 Goals: Laerning Backend.
 - ⚡ Fun fact: I love to play Volleyball.
 
 <p align="center">
@@ -25,7 +25,7 @@
 	<a href="https://msaini28r.hashnode.dev/">
 		<img src="https://img.shields.io/badge/Hashnode-239120?style=for-the-badge&logo=hashnode&logoColor=white" />
 	</a>
-	<a href="https://leetcode.com/msaini28r/">
+	<a href="https://leetcode.com/msainip23/">
 		<img src="https://img.shields.io/badge/-LeetCode-E34F26?style=for-the-badge&logo=LeetCode&logoColor=black" />
 	</a>
 </p>
