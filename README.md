@@ -13,7 +13,7 @@
 <h3 align="center">⚡Connect with me⚡</h3>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/msaini28r/">
+   <a href="https://www.linkedin.com/in/msainip23/">
 		<img src="https://img.shields.io/badge/Linkedin-2088FF?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 <!--   	<a href="https://twitter.com/msaini0r">
