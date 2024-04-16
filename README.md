@@ -1,9 +1,7 @@
 # <h1 align="center">Hi there, I'm Mohit Saini 👋</h1>
 
 - 😊 I'm a Developer, and A Contributor.
-- 🌱 I’m currently learning backend.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2024 Goals: Laerning Backend.
 - ⚡ Fun fact: I love to play Volleyball.
 
 <p align="center">
