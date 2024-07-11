@@ -2,7 +2,6 @@
 
 - 😊 I'm a Developer, and A Contributor.
 - 👯 I’m looking to collaborate with other developers.
-- ⚡ Fun fact: I love to play Volleyball.
 
 <p align="center">
  <img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
