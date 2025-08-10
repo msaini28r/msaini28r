@@ -19,12 +19,12 @@
 <!-- 	<a href="https://open.spotify.com/playlist/0hm6fhnsFwXCPbr74Ie2DO?si=8300a6d916f94e02">
 		<img src="https://img.shields.io/badge/Spotify-239120?&style=for-the-badge&logo=spotify&logoColor=white" />
 	</a> -->
-	<a href="https://msaini28r.hashnode.dev/">
+<!-- 	<a href="https://msaini28r.hashnode.dev/">
 		<img src="https://img.shields.io/badge/Hashnode-239120?style=for-the-badge&logo=hashnode&logoColor=white" />
 	</a>
 	<a href="https://leetcode.com/msainip23/">
 		<img src="https://img.shields.io/badge/-LeetCode-E34F26?style=for-the-badge&logo=LeetCode&logoColor=black" />
-	</a>
+	</a> -->
 </p>
 
 <h3 align="center">💻Some Technologies, Languages, Frameworks and others🧑🏻‍💻<h3/>
