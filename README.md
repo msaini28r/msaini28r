@@ -1,7 +1,6 @@
 # <h1 align="center">Hi there, I'm Mohit Saini 👋</h1>
 
 - 😊 I'm a Developer, and A Contributor.
-- 👯 I’m looking to collaborate with other developers.
 
 <p align="center">
  <img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
