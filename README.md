@@ -79,9 +79,8 @@
 <br />
 
 <br>
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/msaini28r">
-<!-- <p align="center"><img width="320" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=msaini28r&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="msaini28r" /> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=msaini28r&rank_icon=github&locale=en&theme=tokyonight" alt="msaini28r" /></p>
 </a>
-</p>
+</p> -->
